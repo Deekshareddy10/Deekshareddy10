@@ -6,7 +6,7 @@
 ---
 ## 🌟 About Me
 - 🎓 Master’s student in Computer Science at **CU Denver** 
-- 🤖 Keen on **FAANG-level** AI/ML engineering, computer vision, and deep learning projects
+- 🤖 Keen on AI/ML engineering, computer vision, and deep learning projects
 - 🌍 Loves **hiking, exploring, and meeting new people** — and absolutely **loves dogs 🐶**
 - 🏆 **ISA President** (Indian Students Association), leading cultural & tech initiatives on campus
 
