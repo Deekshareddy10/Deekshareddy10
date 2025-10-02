@@ -40,7 +40,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" alt="OpenCV"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" height="45" alt="Hugging Face"/> &nbsp;
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI API"/> &nbsp;
 <img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=chainlink&logoColor=white" height="28" alt="LangChain"/>
 
