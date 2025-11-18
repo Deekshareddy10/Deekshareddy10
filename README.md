@@ -65,9 +65,6 @@
 ## 📊 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshareddy10&layout=compact&theme=radical)
 
-## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Deekshareddy10&theme=radical&hide_border=false)
-
 ## 🚀 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deekshareddy10&theme=react-dark)
 
