@@ -62,8 +62,7 @@
 ## 🔥 GitHub Stats  
 ![Deeksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deekshareddy10&show_icons=true&theme=radical)
 
-## 📊 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshareddy10&layout=compact&theme=radical)
+
 
 ## 🚀 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deekshareddy10&theme=react-dark)
