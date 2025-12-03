@@ -59,10 +59,6 @@
 
 </div>
 
-## 🔥 GitHub Stats  
-![Deeksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deekshareddy10&show_icons=true&theme=radical)
-
-
 
 ## 🚀 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deekshareddy10&theme=react-dark)
