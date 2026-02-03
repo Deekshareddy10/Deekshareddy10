@@ -58,9 +58,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
 
 </div>
-
-
-## 🚀 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deekshareddy10&theme=react-dark)
-
-
